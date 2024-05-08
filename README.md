@@ -637,52 +637,17 @@ To add the script, follow the same steps as described in the other rules. The fo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ##### *Applying rule 4: Disable the run command from the start menu*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 #### Step 7: Check the Event Viewer on the server machine and write down the last successful login
 
-
-
-
 #### Step 8: Use PowerShell to check the latest program installed on the computer
-
-
-
 
 #### Step 9: Write a PowerShell script that gives a list of all running services
 
 
-## Selected Screenshots
 
 
 
