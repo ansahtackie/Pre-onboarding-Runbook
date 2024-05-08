@@ -2,7 +2,7 @@
 
 ## Objective
 
-The goal of this career simulation was to use the knowledge of Windows operating system and management techniques to solve a problem and write a runbook to document the findings. The deliverable for this project involved demonstration of understadning of asset and invetory management, system administration, computer languages,interpersonal skills, problem solving, and writing. 
+This career simulation aimed to use the knowledge of the Windows operating system and management techniques to solve a problem and write a runbook to document the findings. The deliverable for this project involved demonstrating an understanding of asset and inventory management, system administration, computer languages, interpersonal skills, problem-solving, and writing.
 
 
 ### Skills Learned
