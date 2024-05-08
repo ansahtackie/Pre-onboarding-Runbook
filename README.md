@@ -1,4 +1,4 @@
-![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/7554630d-1507-4048-b7f8-c912b9478828)![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/dbd3a032-2d01-47f9-9760-5c0b94fc03e6)# Pre-onboarding-Runbook
+# Pre-onboarding-Runbook
 
 ## Objective
 
