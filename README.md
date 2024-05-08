@@ -1,4 +1,4 @@
-![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/dbd3a032-2d01-47f9-9760-5c0b94fc03e6)# Pre-onboarding-Runbook
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/7554630d-1507-4048-b7f8-c912b9478828)![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/dbd3a032-2d01-47f9-9760-5c0b94fc03e6)# Pre-onboarding-Runbook
 
 ## Objective
 
@@ -540,10 +540,127 @@ Check the new window to see the GOP linked.
 
 
 
+#### Step 6: Edit the GPO and apply given rules:
+
+##### *Applying rule 1: A message should appear whenever the computer starts (do not install unauthorized programs)*
+
+In the group Policy Management, click on the departmental name. In this case, click “Marketing” to show the created GPO. Right-click on the GPO.
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/20d0de6b-5b6c-42f4-993b-e4066445031d)
+
+
+Click on “Edit”.
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/dbf45184-65fd-4879-a8de-dbf703f14bce)
+
+
+Click on Computer Access Control Policy. Under Computer Configuration, Click on Policies to drop down its folders.
+
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/0dbe639a-4544-4644-8431-490aba5f2890)
+
+
+Click on Windows Settings to drop down its contents.
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/bcf7b94b-0b35-4da9-8800-b256573c9194)
 
 
 
-#### Step 6: Edit the GPO and apply given rules
+Click on Security Settings to drop down its contents.
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/16af8bf8-525c-4b8c-82c8-043ab2e15f8c)
+
+
+Click on Local policies to drop down its contents.
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/c3eed9b8-5de6-4e25-b0ea-201b2fa60ec3)
+
+
+Click on the Security Option. Select Interactive Logon: Message text for users attempting to logon Not Defined.
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/342c458a-f398-4a4d-8e8d-d2d2c28ec8d3)
+
+
+
+Double-click it to get the new window.
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/05810915-add1-47c4-afc5-2ca20095ff73)
+
+
+In the opening window check the box that says “Define this policy setting in the template” and type the rule, “do not install unauthorized programs”. Click “OK”.
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/0c087bc9-9a7c-4a7f-b136-12942402194a)
+
+
+Click “Apply”  then “OK”
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/42ccc3fc-0a5a-4b40-b0b9-b6d59b998fd0)
+
+
+
+
+##### *Applying rule 2: Prevent the user's access to CMD*
+
+On the same page, scroll down and get to User Configuration. Follow similar process to apply all the rules. The pictures to go with the steps are presented below. 
+
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/521d1760-0ed9-4ca4-a5c6-4aa326a22bfb)
+
+
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/c0f79b99-593e-4c52-9e0f-82968f1e10f4)
+
+
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/b385231b-315f-4559-93ef-7e88e3c29aaf)
+
+
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/d7493149-3a8c-49b7-951e-fe1f3378189d)
+
+
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/fc0e2271-5817-4dc1-bd1d-2b11cf97780f)
+
+
+![image](https://github.com/ansahtackie/Pre-onboarding-Runbook/assets/148600552/c7089c5c-04d5-4bbf-bf9a-b7e05f61c528)
+
+
+
+
+
+##### *Applying rule 3: Add script to the user's login to map the share you created*
+
+
+To add the script, follow the same steps as described in the other rules. The following are pictures to help. 
+
+
+
+
+
+
+
+
+
+
+
+##### *Applying rule 4: Disable the run command from the start menu*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
