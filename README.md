@@ -644,6 +644,11 @@ To add the script, follow the same steps as described in the other rules. The fo
 
 
 
+
+
+
+
+
 ##### *Applying rule 4: Disable the run command from the start menu*
 
 
